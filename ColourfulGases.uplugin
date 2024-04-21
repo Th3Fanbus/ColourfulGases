@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Colourful Gases",
+	"Description": "Make fluid UIs respect gases' colour",
+	"Category": "Modding",
+	"CreatedBy": "Th3Fanbus",
+	"CreatedByURL": "https://github.com/Th3Fanbus",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discord.gg/xkVJ73E",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.7.0"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"AcceptsAnyRemoteVersion": true
+}
